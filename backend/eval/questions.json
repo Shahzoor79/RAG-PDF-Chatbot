@@ -1,0 +1,12 @@
+[
+  {"q": "How many days per week can employees work remotely?", "expect": ["3 days", "three days"], "page": 1},
+  {"q": "How much is the one-time home-office stipend?", "expect": ["15,000"], "page": 1},
+  {"q": "How many days of paid annual leave do employees get?", "expect": ["24"], "page": 2},
+  {"q": "When is a medical certificate required for sick leave?", "expect": ["2 consecutive", "two consecutive"], "page": 2},
+  {"q": "What is the daily meal allowance during business travel?", "expect": ["1,500"], "page": 3},
+  {"q": "Within how many hours must a security incident be reported?", "expect": ["24"], "page": 4},
+  {"q": "How long is the resignation notice period?", "expect": ["60"], "page": 4},
+  {"q": "What is the company's policy on stock options (ESOPs)?", "expect": null, "page": null},
+  {"q": "Who is the CEO of Northwind Labs?", "expect": null, "page": null},
+  {"q": "How much is the annual performance bonus?", "expect": null, "page": null}
+]
